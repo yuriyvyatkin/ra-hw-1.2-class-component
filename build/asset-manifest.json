@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ra-hw-1.2-class-component/static/css/main.abd64d8f.chunk.css",
+    "main.js": "/ra-hw-1.2-class-component/static/js/main.5250b880.chunk.js",
+    "main.js.map": "/ra-hw-1.2-class-component/static/js/main.5250b880.chunk.js.map",
+    "runtime-main.js": "/ra-hw-1.2-class-component/static/js/runtime-main.14277da8.js",
+    "runtime-main.js.map": "/ra-hw-1.2-class-component/static/js/runtime-main.14277da8.js.map",
+    "static/js/2.efdfc536.chunk.js": "/ra-hw-1.2-class-component/static/js/2.efdfc536.chunk.js",
+    "static/js/2.efdfc536.chunk.js.map": "/ra-hw-1.2-class-component/static/js/2.efdfc536.chunk.js.map",
+    "static/js/3.9198671e.chunk.js": "/ra-hw-1.2-class-component/static/js/3.9198671e.chunk.js",
+    "static/js/3.9198671e.chunk.js.map": "/ra-hw-1.2-class-component/static/js/3.9198671e.chunk.js.map",
+    "index.html": "/ra-hw-1.2-class-component/index.html",
+    "static/css/main.abd64d8f.chunk.css.map": "/ra-hw-1.2-class-component/static/css/main.abd64d8f.chunk.css.map",
+    "static/js/2.efdfc536.chunk.js.LICENSE.txt": "/ra-hw-1.2-class-component/static/js/2.efdfc536.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ra-hw-1.2-class-component/static/media/item-blue.2103f69b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14277da8.js",
+    "static/js/2.efdfc536.chunk.js",
+    "static/css/main.abd64d8f.chunk.css",
+    "static/js/main.5250b880.chunk.js"
+  ]
+}
